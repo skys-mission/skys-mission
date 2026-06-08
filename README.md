@@ -1,3 +1,9 @@
+<p align="center">
+  <samp><i>May this journey lead us starward, for the stars are but a prologue.</i></samp>
+</p>
+
+---
+
 Other languages: [简体中文](README_zh.md)
 
 | Project Brief                                                                                                                                        | Address                                       |
